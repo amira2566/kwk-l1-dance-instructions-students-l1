@@ -17,4 +17,5 @@ def dance_instructions
   puts "assume stance"
   puts "bust a move"
 end
+dance_instructions
   
