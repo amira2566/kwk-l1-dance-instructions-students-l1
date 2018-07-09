@@ -16,5 +16,5 @@ def dance_instructions
   puts "raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a rope lasso. This movement is repeated eight times as well"
   puts "assume stance"
   puts "bust a move"
-  
+end
   
